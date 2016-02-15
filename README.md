@@ -10,7 +10,6 @@ You can even receive alerts as administrator on events like when a new client is
 
 ###Version-2 change log<br />
 ==================================
-
 *Removed SMS subscribe option.<br />
 *Removed Custom gsm field.<br />
 *Messages will be sent as per user country (International Messages).<br />
