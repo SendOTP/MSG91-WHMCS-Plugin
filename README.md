@@ -8,7 +8,7 @@ You can even receive alerts as administrator on events like when a new client is
 
 
 
-[How to Install](http://help.msg91.com/article/197-how-to-configure-msg91-whmcs-sms-plugin)<br />
+[How to Install](http://help.msg91.com/article/182-how-to-configure-msg91-whmcs-sms-plugin)<br />
 
 
 ###Version-2 change log
@@ -19,4 +19,5 @@ You can even receive alerts as administrator on events like when a new client is
 *Improved debugging. <br />
 *Added variables in Send SMS.<br />
 *Design improvement.<br />
+
 
